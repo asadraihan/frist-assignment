@@ -1,5 +1,7 @@
 body{font-family: 'Patua One', cursive;}
-h1{font-size: 30px;}
+section{
+    height: 850px;
+}
 h2{font-size: 40px;
     color: orange;}
 h3{font-size: 35px;
