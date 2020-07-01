@@ -78,9 +78,9 @@ color: darkgrey;}
        color: gold;}
 .bottom-part{
     background-image: url(images/footer-bg.png);
-    background-size: 100% 70%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 440px;
     }
 footer p{ text-align: center;
 font-size: 10px;}
