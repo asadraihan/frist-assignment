@@ -1,6 +1,6 @@
 body{font-family: 'Patua One', cursive;}
 section{
-    height: 800px;
+    height: 700px;
 }
 
 h2{font-size: 40px;
@@ -53,7 +53,7 @@ h4{
     background-size: 100% 80%;
     background-repeat: no-repeat;
     }
-.adjustment{height: 800px;}
+.adjustment{height: 700px;}
 .text{text-align: center;}
 h5{color: dimgray;}
 #small{
