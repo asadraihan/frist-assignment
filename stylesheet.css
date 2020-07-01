@@ -1,30 +1,31 @@
-body{
-    font-family: 'Patua One', cursive;
-}
-h1{
-    font-size: 30px;
-}
-h2{
-    font-size: 40px;
+body{font-family: 'Patua One', cursive;}
+h1{font-size: 30px;}
+h2{font-size: 40px;
     color: orange;
 }
-
+h3{
+    font-size: 35px;
+    color: green;
+}
+p{color: dimgray;}
 .half-width{
     width: 36%;
     float: left;
     margin: 5%;
     padding: 2%;
 }
-.half-width img{
-    width: 100%;
-}
+.half-width img{width: 100%;}
 .top-banner{
     background-image: url(images/header-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
+    height: 500px;
 }
-section{
-    height: 700px;
+.dream-area{
+    background-image: url(images/biography-bg.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 600px;
 }
 .link-button{
     text-decoration: none;
@@ -35,3 +36,55 @@ section{
     color: orange;
     box-shadow: 10px 10px 40px gray;
 }
+h4{
+    text-align: center;
+    font-size: 40px;
+    font-width: 100px;
+    color:  lightgreen;
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin: 3%;
+    padding: 1%;
+}
+.one-third img{ width: 100%;}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
+    }
+.adjustment{height: 550px;}
+.text{text-align: center;}
+h5{color: dimgray;}
+#small{
+    font-size: 20px;
+    color: black;
+}
+.email{
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(216, 86, 199), rgb(0, 255, 0));
+    padding: 1%;
+    margin-left: 25%;
+    border-radius: 5px;
+    font width: 700px;
+    color: white;
+    box-shadow: 10px 10px 40px gray;
+    height: 50px;
+    width: 500px;
+    float: cetre;
+    font-size: 20px;
+    }
+span{font-size: 15px;}
+#small-letter{font-size: 10px;
+color: darkgrey;}
+.final{text-decoration: none;
+       color: gold;}
+.bottom-part{
+    background-image: url(images/footer-bg.png);
+    background-size: 100% 70%;
+    background-repeat: no-repeat;
+    height: 400px;
+    }
+footer p{ text-align: center;
+font-size: 10px;}
