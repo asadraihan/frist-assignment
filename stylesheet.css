@@ -1,7 +1,5 @@
 body{font-family: 'Patua One', cursive;}
-section{
-    height: 850px;
-}
+
 h2{font-size: 40px;
     color: orange;}
 h3{font-size: 35px;
@@ -17,13 +15,13 @@ p{color: dimgray;}
     background-image: url(images/header-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 800px;
+    height: 1000px;
 }
 .dream-area{
     background-image: url(images/biography-bg.png);
     background-size: auto;
     background-repeat: no-repeat;
-    height: 800px;
+    height: 1000px;
 }
 .link-button{
     text-decoration: none;
@@ -52,7 +50,7 @@ h4{
     background-size: 100% 80%;
     background-repeat: no-repeat;
     }
-.adjustment{height: 700px;}
+.adjustment{height: 800px;}
 .text{text-align: center;}
 h5{color: dimgray;}
 #small{
