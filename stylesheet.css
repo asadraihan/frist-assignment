@@ -1,4 +1,7 @@
 body{font-family: 'Patua One', cursive;}
+section{
+    height: 800px;
+}
 
 h2{font-size: 40px;
     color: orange;}
@@ -15,13 +18,13 @@ p{color: dimgray;}
     background-image: url(images/header-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 1000px;
+    
 }
 .dream-area{
     background-image: url(images/biography-bg.png);
     background-size: auto;
     background-repeat: no-repeat;
-    height: 1000px;
+   
 }
 .link-button{
     text-decoration: none;
