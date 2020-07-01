@@ -15,13 +15,13 @@ p{color: dimgray;}
     background-image: url(images/header-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 800px;
 }
 .dream-area{
     background-image: url(images/biography-bg.png);
     background-size: auto;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 800px;
 }
 .link-button{
     text-decoration: none;
@@ -50,7 +50,7 @@ h4{
     background-size: 100% 80%;
     background-repeat: no-repeat;
     }
-.adjustment{height: 550px;}
+.adjustment{height: 700px;}
 .text{text-align: center;}
 h5{color: dimgray;}
 #small{
@@ -80,7 +80,7 @@ color: darkgrey;}
     background-image: url(images/footer-bg.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 440px;
+    height: 500px;
     }
 footer p{ text-align: center;
 font-size: 10px;}
