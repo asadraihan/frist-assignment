@@ -78,7 +78,7 @@ color: darkgrey;}
        color: gold;}
 .bottom-part{
     background-image: url(images/footer-bg.png);
-    background-size: 100% 100%;
+    background-size: 100% 90%;
     background-repeat: no-repeat;
     height: 500px;
     }
